@@ -10,8 +10,8 @@
 * node --version
 * npm --version
 4. Instalar Angular con:
-* npm install -g angular/cli
-* ng --version
+* npm install -g @angular/cli
+* ng version
 6. Intro [Github projects](https://www.ssw.com.au/rules/rules-to-better-scrum-using-github)
 
 # Semana 2,  Git Branching Model
